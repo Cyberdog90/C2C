@@ -1,7 +1,6 @@
 import cv2 as cv
 import tkinter.filedialog
 import os
-import numpy as np
 
 
 def decoder():
