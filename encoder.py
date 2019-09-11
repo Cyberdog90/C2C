@@ -4,10 +4,6 @@ import os
 
 
 def encoder():
-    main()
-
-
-def main():
     root = tkinter.Tk()
     root.withdraw()
     file_type = [("file", "*")]
